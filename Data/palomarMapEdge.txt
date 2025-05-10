@@ -1,0 +1,64 @@
+Lot #12,77.0727,-217.6818,Parking Structure,PD,Lot #13
+Lot #5,21.2657,162.7727,Lot #7A,NS,PL,Closed,Arboretum
+Lot #3,-290.2791,181.6430,Arboretum,WFC,Pool,Softball
+Lot #1 & #2,-216.5558,-148.5107,D,A,SSC,Lot #15,Football & Track,G,M
+Soccer,219.5552,525.8011,Lot #9F,Lot #9,ECE-LS,Arboretum
+Lot #8,240.0307,95.2018,Lot #9,Lot #7A,NS,DA,RS
+Tennis,-248.7107,7.8522,G,O,WFC,Softball,Football & Track
+Football & Track,-266.7764,-96.2661,Tennis,Lot #1 & #2
+Softball,-336.2639,107.0136,Lot #3,WFC,Tennis
+Lot #9,299.2353,323.2873,Lot #9F,Soccer,ECE-LS,Lot #7A,Lot #8
+Pool,-174.4313,102.9038,SW,G,Arboretum,O,WFC,Lot #3
+Lot #9F,276.9608,578.3318,Soccer,Lot #9
+Lot #15,-273.7993,-367.8615,PAC,Lot #1 & #2
+Lot #7A,157.6056,148.5688,Lot #8,Lot #5,NS
+Lot #4,-91.2101,91.8487,Closed,Arboretum,SW,CT,Bookstore,Cafeteria
+MC,122.2249,48.1053,NS,HC,FD,Q,ETV,Lot #8,DR
+DA,210.2327,57.1504,Lot #8,NS,RS
+DR,146.6412,30.4981,NA,HC,DSPS,FD,MC
+TCB,194.4235,20.6892,NB,Closed,DA
+G,-160.6271,47.6034,O,Pool,SW,CT,M,Lot #1 & #2
+O,-209.1525,51.8442,G,WFC,Tennis
+Closed,6.1372,96.6163,Lot #5,ETV,F,SU,Cafeteria,Soccer,Closed
+NB,184.3435,38.1988,TCB,HC,NA
+TCA,172.1405,11.7800,NA,TCB,Closed
+NS,150.3654,100.2979,Lot #7A,Lot #8,DA,HC,MC,PL,Lot #5
+M,-115.6549,23.7447,G,Bookstore,SSC,Lot #1 & #2,CT
+HC,160.3653,53.1783,NS,DR,NA,Lot #8,MC
+NA,165.2783,30.8201,HC,DR,TCA,NA,DA
+DSPS,145.7223,9.9425,Closed,FD,DR,TCA
+FD,127.8261,24.3243,MC,Q,DSPS,DR
+SSC,-112.6972,-100.6856,M,Bookstore,HS,AA/ST,A,Lot #1 & #2
+ETV,49.1493,42.0196,PL,Closed,F,P,TLC,MC
+Q,108.5998,8.1051,FD,RF
+F,11.4765,-0.2736,P,ETV,SU,H,Closed
+RF,118.0568,-14.6787,Q,LRC,Closed
+SU,-38.0983,-16.9984,F,H,MD,HS,Bookstore,Cafeteria,Closed
+AA/ST,-85.9760,-158.3101,MD,HS,SSC,A,C
+D,-147.7668,-258.5467,C,A,Lot #1 & #2,PAC
+A,-136.3862,-174.9758,AA/ST,SSC,Lot #1 & #2,D,C
+P,48.1947,0.0587,TLC,ETV,F
+C,-95.1622,-228.1237,AA/ST,A,D,PD
+Cafeteria,-58.8217,22.5231,SU,Closed,Lot #4,Bookstore
+Bookstore,-83.8003,17.4786,Cafeteria,SU,HS,SSC,M,Lot #4,CT
+Arboretum,-104.3041,251.2781,ECE-LS,Soccer,Lot #3,Pool,SW,Soccer,Lot #4,Lot #5,C
+MD,-26.1271,-134.8610,HS,AA/ST,C,H
+Closed,150.1148,-43.3076,RS,Lot #8,Parking Structure,LRC,RF,DSPS,TCA,TCB
+T,261.0678,-216.3603,ITC,Parking Structure
+WFC,-251.0217,110.2789,O,Tennis,Softball,Lot #3
+ITC,246.3075,-273.2658,T,Lot #14,Parking Structure,Lot #13
+Baseball,472.5303,180.7376,Lot #9
+CT,-102.0524,81.3017,Lot #4,SW,G,M,Bookstore,Lot #8
+RS,226.5181,-9.4928,Parking Structure,Closed,DA,Lot #8
+ECE-LS,211.1049,381.8126,Soccer,Lot #9,Arboretum,Lot #7A
+Lot #13,114.6421,-309.1034,ITC,Lot #14,Parking Structure,Lot #12
+Lot #14,227.2606,-392.0506,ITC,T,Lot #13
+PD,64.1180,-187.3482,Lot #12,Parking Structure,H,MD,LRC,C
+LRC,72.8883,-84.3037,Closed,Parking Structure,PD,H,P,F,TLC,RF,HS,SSC,Lot #1 & #2
+Parking Structure,138.4329,-161.7597,Lot #12,PD,LRC,Closed,RS,T,ITC,Lot #14,Lot #13
+H,16.1707,-107.0607,LRC,P,F,SU,MD
+HS,-65.2360,-92.1075,SSC,SU,AA/ST,MD
+TLC,78.0926,-5.8271,ETV,P,LRC,Q
+PL,52.2863,94.6061,NS,MC,ETV,Closed,Lot #5
+SW,-144.2464,101.6298,Lot #4,Arboretum,Lot #12,G,CT
+PAC,-220.7605,-329.9655,D,Lot #15
